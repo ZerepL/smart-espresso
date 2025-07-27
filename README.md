@@ -41,10 +41,6 @@ The system is designed to interface directly with the Andersson ESM 1.0 espresso
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd smart-espresso
-   ```
 
 2. **Configure credentials**:
    Edit `arduino-secrets.h` with your network settings:
